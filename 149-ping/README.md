@@ -33,3 +33,15 @@ codezine.jp [114.31.94.143]に ping を送信しています 32 バイトのデ�
 ```
  ## Оригинал
  https://codezine.jp/article/detail/11409
+ 
+ ## Новые слова
+ 表示（hyouji）- display
+ たとえば、ウェブサイトが表示されないとする
+ 
+ 返信（henshin）- reply
+ 通信 (tsushin) - communication
+ pingの返信があれば通信自体はできているそれ以外のところで原因があると分かる
+ 
+ 平均 (heikin) - average
+ 平均時間などが表示される
+ 
